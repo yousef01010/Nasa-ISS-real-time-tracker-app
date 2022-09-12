@@ -1,0 +1,14 @@
+There are currently 10 astronauts on the ISS: 
+
+Oleg Artemyev - on board
+Denis Matveev - on board
+Sergey Korsakov - on board
+Kjell Lindgren - on board
+Bob Hines - on board
+Samantha Cristoforetti - on board
+Jessica Watkins - on board
+Cai Xuzhe - on board
+Chen Dong - on board
+Liu Yang - on board
+
+Your current lat / long is: [21.4225,39.8262]
